@@ -4,7 +4,7 @@
 ---
 
 ### 🌸 About Me
-- 🎓 Computer Engineering student
+- 🎓 Informatics Engineering student
 - 📱 Currently focusing on Android Development using Kotlin
 - 🌐 Have experience in Web Development (Laravel & PHP)
 - 🤖 Interested in AI & technology integration
