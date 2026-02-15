@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Intan</h1>
-<h3 align="center">Android Developer Enthusiast 📱 | Computer Engineering Student</h3>
+<h3 align="center">Android Developer Enthusiast 📱 | Informatics Engineering Student</h3>
 
 ---
 
