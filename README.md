@@ -19,6 +19,7 @@
 - Android Studio
 - MVVM Architecture
 - Room Database
+- Firebase/Firestore
 
 #### 🌐 Web Development
 - PHP
